@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">趣味管理アプリ</string>
+    <string name="bt_done">視聴済み\nリスト</string>
+    <string name="bt_concern">気になる\nリスト</string>
+    <string name="tv_debug">debug</string>
+    <string name="tv_already_title">視聴済み</string>
+    <string name="tv_concern_title">気になる</string>
+    <string name="bt_delete">削除</string>
+    <string name="bt_sort">並べ替え</string>
+    <string name="bt_search">絞り込み</string>
+    <string name="bt_home">ホーム</string>
+    <string name="bt_return">戻る</string>
+    <string name="bt_edit">編集</string>
+    <string name="tv_rating">評価</string>
+    <string name="tv_actor">出演者</string>
+    <string name="tv_review">感想</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_drama">drama</string>
+</resources>

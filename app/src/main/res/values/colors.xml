@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="themeOrange">#F78145</color>
+    <color name="dramaButton">#F2C38E</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="themeAlreadyWatch">#3B7DEA</color>
+    <color name="themeConcern">#07AFB0</color>
+    <color name="themeAlreadyButton">#7CE5F7</color>
+    <color name="themeAlreadyButtonText">#0091B2</color>
+    <color name="themeConcernButton">#8DF0B0</color>
+    <color name="themeConcernText">#446B52</color>
+    <color name="themeHome">#F2C94E</color>
+    <color name="themeHomeText">#715A1F</color>
+    <color name="genrePolice">#bc64a4</color>
+    <color name="genreMystery">#84a2d4</color>
+    <color name="genreLove">#e95295</color>
+    <color name="genreComedy">#ffec47</color>
+    <color name="genreHorror">#aacf53</color>
+    <color name="genreYouth">#2ca9e1</color>
+    <color name="genreMusic">#eec362</color>
+    <color name="genreSF">#008899</color>
+    <color name="genreFamily">#ec6800</color>
+    <color name="genreMedical">#165e83</color>
+    //https://www.palettable.io/9BE8CB-9CC0E4-6666E2-F78145-F2C94E
+</resources>
