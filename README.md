@@ -8,3 +8,5 @@
 /app/src/main/res/layout/<br>
 /app/src/main/res/values<br>
 の中のファイルを主に作成しました。(そのほかは自動生成)<br>
+&nbsp;<br>
+<a href="//www.slideshare.net/TomomiKondo/iot-246434994" title="アロマディフューザーIoTシステム" target="_blank">アロマディフューザーIoTシステム</a>
