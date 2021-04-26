@@ -9,4 +9,4 @@
 /app/src/main/res/values<br>
 の中のファイルを主に作成しました。(そのほかは自動生成)<br>
 &nbsp;<br>
-<a href="//www.slideshare.net/TomomiKondo/iot-246434994" title="アロマディフューザーIoTシステム" target="_blank">アロマディフューザーIoTシステム</a>
+<a href="//www.slideshare.net/TomomiKondo/android-246434993" title="使う人によってレイアウトを最適化するAndroidアプリ" target="_blank">使う人によってレイアウトを最適化するAndroidアプリ</a>
